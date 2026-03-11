@@ -8,10 +8,6 @@
 
 - The goal is to help businesses identify high-risk customers and reduce churn through data-driven insights.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-## Dashboard Preview
-
-![Customer-Churn-Analysis](Dashboard/Churn dashboard.png)
------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dataset
 
 The dataset used in this project is the Telco Customer Churn dataset, which contains information about customers such as:
